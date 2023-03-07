@@ -1,3 +1,5 @@
+![Alt-avatar](/img/avatar.jpg "avatar")
+
 ## Naumov Nikita
 
 # My contacts
