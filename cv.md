@@ -20,6 +20,7 @@ I am a beginner front-end developer. Recently graduated from the front-end devel
 - HTML
 - CSS (SCSS, LESS, BEM methodology)
 - javascript(Fundamentals, Functional Programming, ES6+, DOM, JSON, OOP)
+- Git, GitHub
 - Module Bundler: Gulp
 - Windows OS
 - Figma(for web development)
