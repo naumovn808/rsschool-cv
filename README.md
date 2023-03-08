@@ -1,1 +1,1 @@
-https://naumovn808.github.io/rsschool-cv/cv
+https://naumovn808.github.io/rsschool-cv/
