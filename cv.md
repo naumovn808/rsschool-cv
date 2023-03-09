@@ -67,4 +67,4 @@ my latest works : [cat-energy](https://naumovn808.github.io/2068313-cat-energy-2
 ## Languages
 
 - Russian
-- English A2+ I am currently taking English courses as well.
+- English b1 I am currently taking English courses as well.
