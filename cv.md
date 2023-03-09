@@ -62,7 +62,7 @@ const whatTimeIsIt = function (angle) {
 
 I have little experience in JS and Frontend development. I am doing an internship and taking small orders for freelance
 
-my latest works : [cat-energy](https://naumovn808.github.io/2068313-cat-energy-26/), [keksobooking](https://github.com/naumovn808/2068313-keksobooking-27), [smart_device](https://github.com/naumovn808/smart_device), [online-shop "Bangkok Express"](https://github.com/naumovn808/jsbasic-20220211_naumovn8080)
+my latest works : [cat-energy](https://naumovn808.github.io/2068313-cat-energy-26/), [keksobooking](https://naumovn808.github.io/2068313-keksobooking-27/), [smart_device](https://naumovn808.github.io/smart_device/), [online-shop "Bangkok Express"](https://github.com/naumovn808/jsbasic-20220211_naumovn8080),[glacy](https://naumovn808.github.io/2068313-gllacy-34/)
 
 ## Languages
 
