@@ -29,6 +29,35 @@ I'm a front-end developer with four years of experience, including two years as 
 ## Code examples
 
 ```
+  let lookLeft = true;
+        let messageIndex = 0;
+
+        const messages = [
+            "Hello there!",
+            "I'm looking around...",
+            "Pretty cool, huh?",
+            "Have a nice day!"
+        ];
+
+        const animateFace = () => {
+
+            const leftEye = lookLeft ? "(* )" : "( *)";
+            const rightEye = lookLeft ? '(* )' : '( *)';
+
+            console.clear();
+            console.log(`   ${leftEye}   ${rightEye}`);
+            console.log("        |");
+            console.log("      \\___/");
+            console.log("\n" + messages[messageIndex]);
+
+
+            lookLeft = !lookLeft;
+            messageIndex = (messageIndex + 1) % messages.length;
+
+            setTimeout(animateFace, 1000);
+        };
+
+        animateFace();
 
 ```
 
@@ -42,7 +71,6 @@ I'm a front-end developer with four years of experience, including two years as 
 ## Experience
 
 - My GitHub, which you can view [here](https://github.com/naumovn808/), showcases my personal projects. Real-world projects from my work are stored on GitLab under NDA."
-
 
 ## Languages
 
