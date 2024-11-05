@@ -1,1 +1,0 @@
-https://naumovn808.github.io/rsschool-cv/
