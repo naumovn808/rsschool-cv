@@ -1,4 +1,4 @@
-![Alt-avatar](img/avatar.jpg "avatar"){ width=50% }
+![Alt-avatar](img/avatar.jpg "avatar")
 
 ## Naumov Nikita
 
